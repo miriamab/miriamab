@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Miriam.
+My name is Miriam. <br />
 I'm currently studying 'Informatics and Design' at the Munich University of Applied Sciences.
 
 <!--
