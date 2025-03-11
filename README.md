@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Miriam.
+I'm currently studying 'Informatics and Design' at the Munich University of Applied Sciences.
+
 <!--
 **miriamab/miriamab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
