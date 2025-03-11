@@ -1,4 +1,7 @@
-## Hi there 👋
+![GIF5](https://github.com/user-attachments/assets/7b37ccaf-f62b-43de-bb97-baf60fec1835#gh-light-mode-only)
+![GIF_Dark](https://github.com/user-attachments/assets/f83299ed-3147-4609-a7b2-6483b6766daa#gh-dark-mode-only)
+
+
 
 My name is Miriam. <br />
 I'm currently studying 'Informatics and Design' at the Munich University of Applied Sciences.
