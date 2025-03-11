@@ -1,5 +1,4 @@
-![GIF_LIGHT_2](https://github.com/user-attachments/assets/35e4977f-18ab-4b4f-90b3-e313724c3587#gh-light-mode-only)
-![GIF_DARK_1](https://github.com/user-attachments/assets/87d37c80-88b2-49ca-a836-ce520a2be32a#gh-dark-mode-only)
+![GIF_LIGHT_2](https://github.com/user-attachments/assets/35e4977f-18ab-4b4f-90b3-e313724c3587#gh-light-mode-only)![GIF_DARK_1](https://github.com/user-attachments/assets/87d37c80-88b2-49ca-a836-ce520a2be32a#gh-dark-mode-only)
 
 My name is Miriam 🙋‍♀️ and I'm currently studying 'Informatics and Design' at the Munich University of Applied Sciences. 📚
 <!--
